@@ -1,59 +1,66 @@
-# 👋 Hi, I'm Amal S Kumar  
+# Hi, I’m Amal S Kumar 👋
 
-🚀 Full-Stack Developer | 🌐 Web Enthusiast | 🤖 AI Explorer  
+**Full-Stack Developer | Web Enthusiast | AI Explorer**
 
-I’m a **Computer Applications graduate** passionate about building impactful projects that blend **web development, AI, and problem-solving**.  
-From taxi booking systems to e-commerce apps and even AI-based startups, I love taking ideas from **scratch → system architecture → full working product**.  
-
----
-
-## 💡 About Me
-- 🎓 Bachelor of Computer Applications (BCA) | Fresher, ready to learn & grow.  
-- 💻 Skilled in **Python Django** & **PHP**, with multiple completed projects.  
-- 🖥️ Full-stack capabilities: HTML, CSS, JavaScript, React JS.  
-- 🛠️ Experience building **real-time apps, e-commerce systems, AI prototypes**, and more.  
-- 📚 Currently learning **AI, WebSockets, and scalable architectures**.  
-- 🔍 Exploring opportunities to **develop AI-driven solutions for healthcare, education, and fintech**.  
+I’m a Computer Applications graduate passionate about building meaningful projects that combine **web development**, **AI**, and strong problem-solving skills.  
+From conceptualization → architecture → launch, I enjoy turning ideas into working systems.
 
 ---
 
-## 🔨 Tech Stack
-**Languages:** Python, Java, C++, C, PHP  
-**Frameworks:** Django, React.js, Flutter  
-**Databases:** MySQL, SQLite  
-**Other Skills:** REST APIs, WebSockets, WordPress, Tailwind CSS, Electron.js  
+## ⚙️ About Me
+
+- 🎓 Bachelor of Computer Applications (BCA) — fresh, driven, and always learning  
+- 💻 Proficient in **Python (Django)** & **PHP**  
+- 🌐 Frontend skills: HTML, CSS, JavaScript, React.js  
+- 📱 Mobile / UI frameworks: Flutter, Electron.js  
+- 🔧 Other skills: REST APIs, WebSockets, Tailwind CSS, WordPress  
+- 🔍 Learning currently: scalable architectures, deploying AI/ML, real-time features  
 
 ---
 
-## 📂 Highlighted Projects
-- 🚖 **Taxi Booking System** – Django-based system with passenger, driver, and admin modules.  
-- 🛒 **E-Grocery App (FeshCart)** – Cart & delivery tracking, real-time analytics, address models.  
-- 🎶 **Music Player (Electron.js)** – Desktop player with clean UI.  
-- 🐾 **Pet Adoption System** – Platform connecting users with adoption centers.  
-- 👨‍👩‍👧 **Parent-Child Growth Tracker** – AI + ML powered recommendations, gamified learning.  
-- 📊 **PathFinder (Career Quiz)** – Helps users discover ideal tech paths via quiz + insights.  
+## 🛠 Tech Stack
+
+| Category           | Technologies & Tools |
+|--------------------|------------------------|
+| **Languages**      | Python · PHP · Java · C++ · C |
+| **Frameworks**     | Django · React.js · Flutter · Electron.js |
+| **Databases**      | MySQL · SQLite |
+| **Other Tools**    | WebSockets · REST APIs · Tailwind CSS · WordPress |
 
 ---
 
-## 📈 GitHub Stats  
-![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&theme=radical)  
+## 🔍 Selected Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalSKumar0&layout=compact&theme=radical)  
-
----
-
-## 🌟 What I'm Working On
-- Expanding my **AI knowledge** (CS50 AI course @ Harvard).  
-- Developing a **trading bot** to explore AI + finance.  
-- Building a **portfolio website** to showcase all projects.  
+- **Taxi Booking System** — Django-based app with passenger, driver & admin modules  
+- **E-Grocery App (FeshCart)** — Full cart system, delivery tracking, analytics  
+- **Music Player** (Electron.js) — Desktop UI/music experience  
+- **Pet Adoption System** — Connects adopters with adoption centers  
+- **Parent-Child Growth Tracker** — AI/ML powered recommendations, learning/gamification  
+- **PathFinder (Career Quiz)** — Helps users discover career paths through quizzes & insights  
 
 ---
 
-## 📫 Connect with Me
-- 🌍 Portfolio: [https://amalskumar.pythonanywhere.com] 
-- 💼 LinkedIn: [Your LinkedIn URL]  
-- 📧 Email: amalskumarofficialz@gmail.com 
+## 📊 GitHub Stats
+
+[![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&theme=radical)](https://github.com/AmalSKumar0)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalSKumar0&layout=compact&theme=radical)](https://github.com/AmalSKumar0)
 
 ---
 
-⭐️ *"I believe technology should solve problems that matter — my mission is to keep learning, keep building, and keep creating impact."*
+## 🚀 What I'm Working On
+
+- Deepening my knowledge of AI & ML  
+- Building a **portfolio website** to showcase all my work  
+- Exploring real-world project ideas in healthcare, finance, and education  
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://amalskumar.pythonanywhere.com  
+- 🔗 LinkedIn: *[Your LinkedIn profile URL]*  
+- 📧 Email: amalskumarofficialz@gmail.com  
+
+---
+
+⭐️ *“I believe technology should solve problems that matter — my mission is to keep learning, keep building, and keep creating impact.”*
