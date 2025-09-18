@@ -50,9 +50,9 @@ From taxi booking systems to e-commerce apps and even AI-based startups, I love 
 ---
 
 ## 📫 Connect with Me
-- 🌍 Portfolio: *Coming soon*  
+- 🌍 Portfolio: [https://amalskumar.pythonanywhere.com] 
 - 💼 LinkedIn: [Your LinkedIn URL]  
-- 📧 Email: [Your Email]  
+- 📧 Email: amalskumarofficialz@gmail.com 
 
 ---
 
