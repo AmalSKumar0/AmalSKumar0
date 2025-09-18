@@ -36,9 +36,9 @@ From taxi booking systems to e-commerce apps and even AI-based startups, I love 
 ---
 
 ## 📈 GitHub Stats  
-![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalSKumar0&layout=compact&theme=radical)  
 
 ---
 
