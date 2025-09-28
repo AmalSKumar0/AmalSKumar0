@@ -58,7 +58,7 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://amalskumar.pythonanywhere.com  
-- 🔗 LinkedIn: *[Your LinkedIn profile URL]*  
+- 🔗 LinkedIn: [*[Your LinkedIn profile URL]*  ](https://www.linkedin.com/in/amal-fsd/)
 - 📧 Email: amalskumarofficialz@gmail.com  
 
 ---
