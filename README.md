@@ -68,15 +68,14 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
 
 ## 📊 GitHub Stats
 
-[![Amal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&theme=radical)](https://github.com/AmalSKumar0)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmalSKumar0&layout=compact&theme=radical)](https://github.com/AmalSKumar0)
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ## 🚀 What I'm Working On
 
 - Deepening my knowledge of AI & ML  
-- Building a **portfolio website** to showcase all my work  
 - Exploring real-world project ideas in healthcare, finance, and education  
 
 ---
