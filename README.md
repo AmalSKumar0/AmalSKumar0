@@ -70,7 +70,7 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=milan-m-antony&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AmalSKumar0&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 ---
@@ -78,11 +78,11 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=milan-m-antony&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&theme=tokyonight" alt="stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=milan-m-antony&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmalSKumar0&theme=tokyonight" alt="streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-m-antony&layout=compact&theme=tokyonight" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalSKumar0&layout=compact&theme=tokyonight" alt="top languages"/>
 </p>
 
 ---
@@ -90,7 +90,7 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milan-m-antony&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmalSKumar0&theme=tokyo-night" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
 ## 🌍 Profile Summary  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milan-m-antony&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalSKumar0&theme=tokyonight" />
 </p>
 
 ---
