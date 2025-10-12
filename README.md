@@ -67,12 +67,57 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies  
 
-<br clear="both">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=milan-m-antony&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=milan-m-antony&show_icons=true&theme=tokyonight" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=milan-m-antony&theme=tokyonight" alt="streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-m-antony&layout=compact&theme=tokyonight" alt="top languages"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=milan-m-antony&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌍 Profile Summary  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=milan-m-antony&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 💡 Quote of the Day  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
 
 ## 🚀 What I'm Working On
 
@@ -83,9 +128,9 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://amalskumar.pythonanywhere.com  
-- 🔗 LinkedIn: [*[my LinkedIn profile URL]*  ](https://www.linkedin.com/in/amal-fsd/)
-- 📧 Email: amalskumarofficialz@gmail.com  
+- 🌐 Portfolio: [*[my profile]*  ](https://amalskumar.pythonanywhere.com )
+- 🔗 LinkedIn: [*[my LinkedIn profile]*  ](https://www.linkedin.com/in/amal-fsd/)
+- 📧 Email:  [*[my mail]*  ](amalskumarofficialz@gmail.com)
 
 ---
 
