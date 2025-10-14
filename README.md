@@ -38,6 +38,9 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="django logo"  />
  </div> 
+ 
+---
+
 ## ⚙️ About Me
 
 - 🎓 Bachelor of Computer Applications (BCA) — fresh, driven, and always learning  
