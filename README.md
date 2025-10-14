@@ -35,7 +35,9 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
-</div>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="django logo"  />
+ </div> 
 ## ⚙️ About Me
 
 - 🎓 Bachelor of Computer Applications (BCA) — fresh, driven, and always learning  
