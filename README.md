@@ -1,12 +1,6 @@
 <div align="center">
 # Hi, I’m Amal S Kumar 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmalSKumar0&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/AmalSKumar0?tab=followers">
-    <img src="https://img.shields.io/github/followers/AmalSKumar0?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
 
 **Full-Stack Developer | Web Enthusiast | AI Explorer**
 </div>
