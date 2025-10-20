@@ -8,6 +8,7 @@ I’m a Computer Applications graduate passionate about building meaningful proj
 From conceptualization → architecture → launch, I enjoy turning ideas into working systems.
 
 ---
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
