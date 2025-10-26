@@ -4,7 +4,7 @@
 
 **Full-Stack Developer | Web Enthusiast | AI Explorer**
 </div>
-I’m a Computer Applications graduate passionate about building meaningful projects that combine **web development**, **AI**, and strong problem-solving skills.  
+I’m a Computer Applications graduate passionate about building meaningful projects that combine web development, AI, and strong problem-solving skills.  
 From conceptualization → architecture → launch, I enjoy turning ideas into working systems.
 
 ---
