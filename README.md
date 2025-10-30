@@ -48,7 +48,7 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
 - 🎓 Bachelor of Computer Applications (BCA) — fresh, driven, and always learning  
 - 💻 Proficient in **Python (Django)** & **PHP**  
 - 🌐 Frontend skills: HTML, CSS, JavaScript, React.js  
-- 📱 Mobile / UI frameworks: Flutter, Electron.js  
+- 📱 Mobile / UI frameworks: Electron.js  
 - 🔧 Other skills: REST APIs, WebSockets, Tailwind CSS, WordPress  
 - 🔍 Learning currently: scalable architectures, deploying AI/ML, real-time features  
 
@@ -71,33 +71,10 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🔍 Selected Projects
-
-- **Taxi Booking System** — Django-based app with passenger, driver & admin modules  
-- **E-Grocery App (FeshCart)** — Full cart system, delivery tracking, analytics  
-- **Music Player** (Electron.js) — Desktop UI/music experience  
-- **Pet Adoption System** — Connects adopters with adoption centers  
-- **Parent-Child Growth Tracker** — AI/ML powered recommendations, learning/gamification  
-- **PathFinder (Career Quiz)** — Helps users discover career paths through quizzes & insights  
-
----
-
 ## 🏆 GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AmalSKumar0&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmalSKumar0&theme=tokyonight" alt="streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalSKumar0&layout=compact&theme=tokyonight" alt="top languages"/>
 </p>
 
 ---
@@ -123,21 +100,6 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
-
-## 💡 Quote of the Day  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 What I'm Working On
-
-- Deepening my knowledge of AI & ML  
-- Exploring real-world project ideas in healthcare, finance, and education  
 
 ---
 
