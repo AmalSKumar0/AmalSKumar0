@@ -1,79 +1,52 @@
-<div align="center">
-# Hi, I’m Amal S Kumar 👋
-
-
-**Full-Stack Developer | Web Enthusiast | AI Explorer**
-</div>
-I’m a Computer Applications graduate passionate about building meaningful projects that combine web development, AI, and strong problem-solving skills.  
-From conceptualization → architecture → launch, I enjoy turning ideas into working systems.
-
----
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo"  />
-  <img width="12" />
-
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="django logo"  />
- </div> 
- 
----
-
-## ⚙️ About Me
-
-- 🎓 Bachelor of Computer Applications (BCA) — fresh, driven, and always learning  
-- 💻 Proficient in **Python (Django)** & **PHP**  
-- 🌐 Frontend skills: HTML, CSS, JavaScript, React.js  
-- 📱 Mobile / UI frameworks: Electron.js  
-- 🔧 Other skills: REST APIs, WebSockets, Tailwind CSS, WordPress  
-- 🔍 Learning currently: scalable architectures, deploying AI/ML, real-time features  
-
----
-
-## 🛠 Tech Stack
-
-| Category           | Technologies & Tools |
-|--------------------|------------------------|
-| **Languages**      | Python · PHP · Java · C++ · C |
-| **Frameworks**     | Django · React.js · Flutter · Electron.js |
-| **Databases**      | MySQL · SQLite |
-| **Other Tools**    | WebSockets · REST APIs · Tailwind CSS · WordPress |
-
----
-
-## 🏆 GitHub Trophies  
+<h1 align="center">👋 Hi, I’m Amal S Kumar</h1>
+<p align="center"><b>Full-Stack Developer | Web Engineer | AI Explorer</b></p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmalSKumar0&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://skillicons.dev/icons?i=py,php,java,cpp,c,react,django,electron,mysql,sqlite,tailwind,wordpress,ts,css" height="60" />
 </p>
 
 ---
 
-## 📈 Contribution Graph  
+## 🧠 About Me
+
+I’m a **Computer Applications graduate** passionate about designing and building systems that solve real-world problems.  
+From backend architecture to polished UI, I enjoy every part of the development process — thinking logically, optimizing code, and shipping functional, maintainable projects.
+
+- 💻 Core focus: **Python (Django)** and **PHP** for backend systems  
+- 🌐 Frontend expertise: **React.js**, **Tailwind CSS**, **JavaScript/TypeScript**  
+- ⚙️ Skilled at building **REST APIs**, **real-time apps** with **WebSockets**, and full deployment pipelines  
+- 🧩 Exploring **AI/ML integration** and scalable architectures  
+- 🎯 Goal: To master full-stack system design and intelligent automation
+
+---
+
+## 🚀 Featured Projects
+
+- 🛺 **AutoRide** — Taxi booking system (Django + SQLite) with modules for drivers, passengers, and admin analytics  
+- 🛒 **FeshCart** — Grocery e-commerce platform with real-time delivery tracking and order management  
+- 🪙 **Copper** — A simple interpreted programming language built from scratch in C to learn compiler design fundamentals  
+- 🧭 **PathFinder** — AI-based career guidance platform that matches users’ skills and goals to ideal tech paths  
+
+> I believe that *learning by building* is the fastest way to grow — every project here represents a problem I chose to solve.
+
+---
+
+## 🧰 Tech Stack
+
+| Domain | Tools & Technologies |
+|---------|----------------------|
+| **Backend** | Python (Django) · PHP |
+| **Frontend** | React.js · Tailwind CSS · HTML · CSS · JavaScript · TypeScript |
+| **Databases** | MySQL · SQLite |
+| **Dev Tools** | WebSockets · REST APIs · Electron.js · WordPress · Git |
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalSKumar0&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmalSKumar0&theme=tokyo-night" />
@@ -81,28 +54,12 @@ From conceptualization → architecture → launch, I enjoy turning ideas into w
 
 ---
 
-## 🌍 Profile Summary  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalSKumar0&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://amalskumar.pythonanywhere.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/amal-fsd/
-- 📧 Email:  amalskumarofficialz@gmail.com
+- 🌐 **Portfolio:** [amalskumar.pythonanywhere.com](https://amalskumar.pythonanywhere.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/amal-fsd](https://www.linkedin.com/in/amal-fsd/)  
+- 📧 **Email:** amalskumarofficialz@gmail.com  
 
 ---
 
-⭐️ *“I believe technology should solve problems that matter — my mission is to keep learning, keep building, and keep creating impact.”*
+⭐️ *“Technology should solve real problems — I build systems that make that happen.”*
