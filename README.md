@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Amal S Kumar</h1>
-<p align="center"><b>Full-Stack Developer | Web Engineer | AI Explorer</b></p>
+<p align="center"><b>Full-Stack Developer | Software Engineer | AI Explorer</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,php,java,cpp,c,react,django,electron,mysql,sqlite,tailwind,wordpress,ts,css" height="60" />
