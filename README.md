@@ -53,8 +53,7 @@ From backend architecture to polished UI, I enjoy every part of the development 
 </p>
 
 ---
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Amalsenpai-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Amalsenpai/)
----
+
 ## 📫 Connect With Me
 
 - 🌐 **Portfolio:** [amalskumar.pythonanywhere.com](https://amalskumar.pythonanywhere.com)  
