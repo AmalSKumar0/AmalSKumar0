@@ -20,17 +20,6 @@ From backend architecture to polished UI, I enjoy every part of the development 
 
 ---
 
-## 🚀 Featured Projects
-
-- 🛺 **AutoRide** — Taxi booking system (Django + SQLite) with modules for drivers, passengers, and admin analytics  
-- 🛒 **FeshCart** — Grocery e-commerce platform with real-time delivery tracking and order management  
-- 🪙 **Copper** — A simple interpreted programming language built from scratch in C to learn compiler design fundamentals  
-- 🧭 **PathFinder** — AI-based career guidance platform that matches users’ skills and goals to ideal tech paths  
-
-> I believe that *learning by building* is the fastest way to grow — every project here represents a problem I chose to solve.
-
----
-
 ## 🧰 Tech Stack
 
 | Domain | Tools & Technologies |
