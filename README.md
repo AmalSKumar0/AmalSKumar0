@@ -45,7 +45,7 @@ From backend architecture to polished UI, I enjoy every part of the development 
 
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio:** [amalskumar.pythonanywhere.com](https://amalskumar.pythonanywhere.com)  
+- 🌐 **Portfolio:** www.amalskumar.co.in  
 - 💼 **LinkedIn:** [linkedin.com/in/amal-fsd](https://www.linkedin.com/in/amal-fsd/)  
 - 📧 **Email:** amalskumarofficialz@gmail.com  
 
