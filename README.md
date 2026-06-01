@@ -26,15 +26,14 @@
 </p>
 
 <p align="center">
-  <b>Hello there! I'm Amal S Kumar, a 23-year-old Full-Stack Developer based in Kochi, Kerala, specializing in scalable web applications, REST APIs, and database-driven solutions.</b><br>
-  Beyond standard freelance work, I build complex platforms like Event Inventory SaaS products and architecture for monitoring 1000+ IoT devices.<br>
-  Currently, I'm pursuing my Masters of Computer Applications (MCA) at Amal Jyothi College of Engineering (2025 - Present).<br>
-  I am a NASA SpaceApps Global Nominee, and a 2nd Prize winner in idea pitching at MES College.<br>
-  I also dedicate time to mentoring my peers in DSA and LeetCode patterns to help them succeed.<br>
-  When not coding, optimizing workflows with AI-native IDEs, or tinkering,<br>
-  you will likely find me customizing my Arch Linux environment,<br>
-  gearing up for a competitive chess match,<br>
-  or putting in work at the gym.<br>
+  <b>I am a Full Stack Developer with strong backend expertise in Python, Django, PHP, and Laravel, experienced in building scalable web apps.</b><br>
+  My expertise lies in designing and deploying robust REST APIs, secure authentication systems, and database-driven solutions.<br>
+  I have developed production-ready projects including a digital art marketplace, a taxi booking platform, and e-commerce applications.<br>
+  I bring hands-on experience in AWS deployment, PostgreSQL, MySQL, Redis, Celery, Git, and Linux environments.<br>
+  Currently, I am also developing a physical asset tracking SaaS and an IoT monitoring architecture.<br>
+  In my free time, I mentor peers in DSA and customize my Arch Linux desktop,<br>
+  or prepare for my next competitive chess match.<br>
+  Let's build something great!<br>
   🚀
 </p>
 
