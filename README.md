@@ -19,7 +19,7 @@
 
 <br>
 
-<h2 align="center">🐈 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   <img src="images/1c8fb882aa6b4e7e769ab0402890b421.jpg" width="120px" style="border-radius: 50%; margin-bottom: 10px;" alt="Pixel cat and moon illustration">
@@ -34,12 +34,12 @@
   In my free time, I mentor peers in DSA and customize my Arch Linux desktop,<br>
   or prepare for my next competitive chess match.<br>
   Let's build something great!<br>
-  🚀
+  
 </p>
 
 <br><br>
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+<h2 align="center"> Technologies & Tools</h2>
 
 <p align="center">
   <!-- Languages -->
