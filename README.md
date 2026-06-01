@@ -17,28 +17,28 @@
   </a>
 </p>
 
----
+<br>
 
 <h2 align="center">🐈 About Me</h2>
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <p>Hello there! I'm <b>Amal S Kumar</b>, a passionate Full-Stack Developer with strong backend expertise based in Kochi, Kerala. I specialize in designing and deploying scalable web applications, REST APIs, and database-driven solutions.</p>
-      <p>Currently, I'm pursuing my <b>Masters of Computer Applications (MCA)</b> at Amal Jyothi College of Engineering, Kottayam (2025 - Present), after completing my BCA with a 7.82 CGPA from Mahatma Gandhi University.</p>
-      <ul>
-        <li>💼 <b>Freelance Web Developer</b>: Successfully built and delivered 7+ production-ready client websites (Laravel, Django, PHP).</li>
-        <li>🚀 <b>NASA SpaceApps Challenge</b>: Selected as a Global Nominee for the prestigious hackathon.</li>
-        <li>🏆 <b>Achievements</b>: 2nd Prize in Idea Pitching Competition at MES College, and selected for central government IDE Bootcamp.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="images/1c8fb882aa6b4e7e769ab0402890b421.jpg" width="90%" style="border-radius: 15px;" alt="Pixel cat and moon illustration">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="images/1c8fb882aa6b4e7e769ab0402890b421.jpg" width="120px" style="border-radius: 50%; margin-bottom: 10px;" alt="Pixel cat and moon illustration">
+</p>
 
----
+<p align="center">
+  <b>Hello there! I'm Amal S Kumar, a 23-year-old Full-Stack Developer based in Kochi, Kerala, specializing in scalable web applications, REST APIs, and database-driven solutions.</b><br>
+  Beyond standard freelance work, I build complex platforms like Event Inventory SaaS products and architecture for monitoring 1000+ IoT devices.<br>
+  Currently, I'm pursuing my Masters of Computer Applications (MCA) at Amal Jyothi College of Engineering (2025 - Present).<br>
+  I am a NASA SpaceApps Global Nominee, and a 2nd Prize winner in idea pitching at MES College.<br>
+  I also dedicate time to mentoring my peers in DSA and LeetCode patterns to help them succeed.<br>
+  When not coding, optimizing workflows with AI-native IDEs, or tinkering,<br>
+  you will likely find me customizing my Arch Linux environment,<br>
+  gearing up for a competitive chess match,<br>
+  or putting in work at the gym.<br>
+  🚀
+</p>
+
+<br><br>
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
----
+<br><br>
 
 <h2 align="center">📈 GitHub Statistics</h2>
 
