@@ -1,56 +1,124 @@
-<div align="center">
-
-# Amal S Kumar
-
-### Backend Developer • Full-Stack Engineer
-
-Building production-ready web applications with Django, PHP, Laravel, React, and modern cloud technologies.
-
-<p>
-  <a href="https://www.amalskumar.dev">Portfolio</a> •
-  <a href="https://github.com/AmalSKumar0">GitHub</a> •
-  <a href="https://linkedin.com/in/amal-fsd">LinkedIn</a> •
-  <a href="mailto:amalskumardev@gmail.com">Email</a>
-</p>
-
-</div>
-
----
-
-## About
-
-I am a Software Developer focused on backend engineering and full-stack application development.
-
-My experience includes designing and deploying scalable web applications, authentication systems, REST APIs, payment workflows, real-time features, and database-driven platforms. I enjoy solving business problems through clean architecture and maintainable software.
-
----
-
-## Tech Stack
-
-```text
-Backend      Python • Django • PHP • Laravel
-Frontend     React • TypeScript • JavaScript
-Database     PostgreSQL • MySQL • SQLite
-Infrastructure AWS • Redis • Celery • Linux
-Tools        Git • REST APIs • WebSockets
-```
-## GitHub Analytics
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&hide_border=true&theme=github_dark" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmalSKumar0&hide_border=true&theme=github-dark-blue" />
+  <img src="images/image.png" alt="Amal's GitHub Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalSKumar0&theme=github_dark" />
+  <a href="https://www.amalskumar.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/AmalSKumar0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/amal-fsd" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:amalskumardev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-<div align="center">
+<h2 align="center">🐈 About Me</h2>
 
-### Currently Learning
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>Hello there! I'm <b>Amal S Kumar</b>, a passionate Full-Stack Developer with strong backend expertise based in Kochi, Kerala. I specialize in designing and deploying scalable web applications, REST APIs, and database-driven solutions.</p>
+      <p>Currently, I'm pursuing my <b>Masters of Computer Applications (MCA)</b> at Amal Jyothi College of Engineering, Kottayam (2025 - Present), after completing my BCA with a 7.82 CGPA from Mahatma Gandhi University.</p>
+      <ul>
+        <li>💼 <b>Freelance Web Developer</b>: Successfully built and delivered 7+ production-ready client websites (Laravel, Django, PHP).</li>
+        <li>🚀 <b>NASA SpaceApps Challenge</b>: Selected as a Global Nominee for the prestigious hackathon.</li>
+        <li>🏆 <b>Achievements</b>: 2nd Prize in Idea Pitching Competition at MES College, and selected for central government IDE Bootcamp.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="images/ac6ac1df84d5d9824e8fec9a263dd111.jpg" width="90%" style="border-radius: 15px;" alt="Pixel cat and moon illustration">
+    </td>
+  </tr>
+</table>
 
-Data Structures & Algorithms • System Design • Scalable Backend Architecture
+---
 
-</div>
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <br />
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <br />
+  <!-- Dev Tools & Infrastructure -->
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+<h2 align="center">📁 Featured Projects</h2>
+
+<table border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🎨 Velora — Digital Art Marketplace</h3>
+      <p>A production-ready digital art platform supporting escrow-based payments, dispute management, OTP authentication, role-based access control, and complete order lifecycle workflows.</p>
+      <p><code>Django</code> • <code>MySQL</code> • <code>AWS</code> • <code>Razorpay</code> • <code>Celery</code> • <code>Redis</code></p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="images/1c8fb882aa6b4e7e769ab0402890b421.jpg" width="85%" style="border-radius: 15px;" alt="Pixel cat with pink cheeks">
+    </td>
+  </tr>
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="images/753273b25d861299ab843d94ffc767b7.jpg" width="75%" style="border-radius: 15px;" alt="Pixel cat headshot">
+    </td>
+    <td width="60%" valign="top">
+      <h3>🚕 RideNow — Taxi Booking Platform</h3>
+      <p>A multi-role taxi booking platform supporting passengers, drivers, and administrators with OTP-based ride verification, dynamic pricing, and trip lifecycle management.</p>
+      <p><code>Django</code> • <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
+
+<h3>⚙️ More Codebases</h3>
+<ul>
+  <li>🛠️ <b>Copper</b>: A custom programming language built from scratch using Python.</li>
+  <li>🤖 <b>Resume Telegram Bot</b>: Scans resume PDFs and scrapes job posting websites to automatically match and suggest job posts.</li>
+  <li>🛒 <b>Django E-commerce</b>: Full-stack online shopping platform supporting user auth, shopping carts, and order management workflows.</li>
+</ul>
+
+---
+
+<h2 align="center">📈 GitHub Statistics</h2>
+
+<p align="center">
+  <a href="https://github.com/AmalSKumar0">
+    <img src="https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="Amal's GitHub Stats" />
+  </a>
+  <a href="https://github.com/AmalSKumar0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmalSKumar0&hide_border=true&theme=tokyonight" width="48%" alt="Amal's GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalSKumar0&theme=tokyonight" width="98%" alt="Profile Details" />
+</p>
