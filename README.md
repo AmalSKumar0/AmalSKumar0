@@ -1,54 +1,56 @@
-<h1 align="center">👋 Hi, I’m Amal S Kumar</h1>
-<p align="center"><b>Full-Stack Developer | Software Engineer | AI Explorer</b></p>
+<div align="center">
+
+# Amal S Kumar
+
+### Backend Developer • Full-Stack Engineer
+
+Building production-ready web applications with Django, PHP, Laravel, React, and modern cloud technologies.
+
+<p>
+  <a href="https://www.amalskumar.dev">Portfolio</a> •
+  <a href="https://github.com/AmalSKumar0">GitHub</a> •
+  <a href="https://linkedin.com/in/amal-fsd">LinkedIn</a> •
+  <a href="mailto:amalskumardev@gmail.com">Email</a>
+</p>
+
+</div>
+
+---
+
+## About
+
+I am a Software Developer focused on backend engineering and full-stack application development.
+
+My experience includes designing and deploying scalable web applications, authentication systems, REST APIs, payment workflows, real-time features, and database-driven platforms. I enjoy solving business problems through clean architecture and maintainable software.
+
+---
+
+## Tech Stack
+
+```text
+Backend      Python • Django • PHP • Laravel
+Frontend     React • TypeScript • JavaScript
+Database     PostgreSQL • MySQL • SQLite
+Infrastructure AWS • Redis • Celery • Linux
+Tools        Git • REST APIs • WebSockets
+```
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,php,java,cpp,c,react,django,electron,mysql,sqlite,tailwind,wordpress,ts,css" height="60" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&hide_border=true&theme=github_dark" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmalSKumar0&hide_border=true&theme=github-dark-blue" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalSKumar0&theme=github_dark" />
 </p>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-I’m a **Computer Applications graduate** passionate about designing and building systems that solve real-world problems.  
-From backend architecture to polished UI, I enjoy every part of the development process — thinking logically, optimizing code, and shipping functional, maintainable projects.
+### Currently Learning
 
-- 💻 Core focus: **Python (Django)** and **PHP** for backend systems  
-- 🌐 Frontend expertise: **React.js**, **Tailwind CSS**, **JavaScript/TypeScript**  
-- ⚙️ Skilled at building **REST APIs**, **real-time apps** with **WebSockets**, and full deployment pipelines  
-- 🧩 Exploring **AI/ML integration** and scalable architectures  
-- 🎯 Goal: To master full-stack system design and intelligent automation
+Data Structures & Algorithms • System Design • Scalable Backend Architecture
 
----
-
-## 🧰 Tech Stack
-
-| Domain | Tools & Technologies |
-|---------|----------------------|
-| **Backend** | Python (Django) · PHP |
-| **Frontend** | React.js · Tailwind CSS · HTML · CSS · JavaScript · TypeScript |
-| **Databases** | MySQL · SQLite |
-| **Dev Tools** | WebSockets · REST APIs · Electron.js · WordPress · Git |
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalSKumar0&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmalSKumar0&theme=tokyo-night" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 🌐 **Portfolio:** www.amalskumar.co.in  
-- 💼 **LinkedIn:** [linkedin.com/in/amal-fsd](https://www.linkedin.com/in/amal-fsd/)  
-- 📧 **Email:** amalskumarofficialz@gmail.com  
-
----
-
-⭐️ *“Technology should solve real problems — I build systems that make that happen.”*
+</div>
