@@ -33,7 +33,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="images/ac6ac1df84d5d9824e8fec9a263dd111.jpg" width="90%" style="border-radius: 15px;" alt="Pixel cat and moon illustration">
+      <img src="images/1c8fb882aa6b4e7e769ab0402890b421.jpg" width="90%" style="border-radius: 15px;" alt="Pixel cat and moon illustration">
     </td>
   </tr>
 </table>
@@ -71,40 +71,6 @@
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
----
-
-<h2 align="center">📁 Featured Projects</h2>
-
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🎨 Velora — Digital Art Marketplace</h3>
-      <p>A production-ready digital art platform supporting escrow-based payments, dispute management, OTP authentication, role-based access control, and complete order lifecycle workflows.</p>
-      <p><code>Django</code> • <code>MySQL</code> • <code>AWS</code> • <code>Razorpay</code> • <code>Celery</code> • <code>Redis</code></p>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="images/1c8fb882aa6b4e7e769ab0402890b421.jpg" width="85%" style="border-radius: 15px;" alt="Pixel cat with pink cheeks">
-    </td>
-  </tr>
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="images/753273b25d861299ab843d94ffc767b7.jpg" width="75%" style="border-radius: 15px;" alt="Pixel cat headshot">
-    </td>
-    <td width="60%" valign="top">
-      <h3>🚕 RideNow — Taxi Booking Platform</h3>
-      <p>A multi-role taxi booking platform supporting passengers, drivers, and administrators with OTP-based ride verification, dynamic pricing, and trip lifecycle management.</p>
-      <p><code>Django</code> • <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code></p>
-    </td>
-  </tr>
-</table>
-
-<h3>⚙️ More Codebases</h3>
-<ul>
-  <li>🛠️ <b>Copper</b>: A custom programming language built from scratch using Python.</li>
-  <li>🤖 <b>Resume Telegram Bot</b>: Scans resume PDFs and scrapes job posting websites to automatically match and suggest job posts.</li>
-  <li>🛒 <b>Django E-commerce</b>: Full-stack online shopping platform supporting user auth, shopping carts, and order management workflows.</li>
-</ul>
 
 ---
 
