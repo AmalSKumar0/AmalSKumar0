@@ -1,89 +1,372 @@
+<div align="center">
+
+<img src="images/banner.png" alt="Amal S Kumar Banner" width="100%" />
+
+# Hi, I'm Amal S Kumar 👋
+
+### Backend Engineer • Full Stack Developer • Linux Enthusiast
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Python+Django+Developer;Building+Scalable+Web+Applications;Linux+Power+User+(Arch);REST+API+Developer;Always+Learning+New+Technologies" />
+</p>
+
+<p>
+
+<a href="https://www.amalskumar.dev">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://github.com/AmalSKumar0">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/amal-fsd">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:amalskumardev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=AmalSKumar0&style=for-the-badge&color=0A66C2" />
+
+</div>
+
+---
+
+# About Me
+
+```python
+class AmalSKumar:
+
+    def __init__(self):
+        self.name = "Amal S Kumar"
+        self.role = "Backend Engineer"
+        self.languages = [
+            "Python",
+            "PHP",
+            "JavaScript",
+            "Java",
+            "C",
+            "C++"
+        ]
+
+        self.backend = [
+            "Django",
+            "Laravel",
+            "REST APIs",
+            "JWT",
+            "Redis",
+            "Celery"
+        ]
+
+        self.databases = [
+            "PostgreSQL",
+            "MySQL",
+            "SQLite"
+        ]
+
+        self.tools = [
+            "AWS",
+            "Git",
+            "Linux",
+            "Docker",
+            "VS Code"
+        ]
+
+        self.os = "Arch Linux"
+
+        self.current_focus = [
+            "Backend Engineering",
+            "DevTools",
+            "Scalable Systems",
+            "System Design",
+            "Competitive Programming"
+        ]
+```
+
+---
+
+# Current Focus
+
+- 🚀 Building **Noir CLI**
+- 📦 Developing a **Physical Asset Tracking SaaS**
+- ⚡ Learning **System Design**
+- 🧠 Solving **LeetCode** problems
+- 🐧 Exploring Linux internals and automation
+- ☁️ Improving cloud deployment skills
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,php,js,java,c,cpp"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=django,laravel"/>
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+
+</p>
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+
+</p>
+
+---
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+
+</p>
+
+---
+
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,bash"/>
+
+</p>
+
+---
+
+# Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🚀 Noir CLI
+
+AI-powered Reliability Engineering CLI
+
+**Tech**
+
+Python • Typer • JWT • REST API
+
+**Highlights**
+
+- CLI Authentication
+- Device Authorization
+- Secure Credential Storage
+- API Integration
+
+</td>
+
+<td width="50%">
+
+## 🎨 Velora
+
+Digital Art Marketplace
+
+**Tech**
+
+Django • PostgreSQL • AWS • Redis
+
+**Highlights**
+
+- Escrow Payments
+- OTP Authentication
+- Role-Based Access
+- Secure Transactions
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🚖 SwiftRide
+
+Taxi Booking Platform
+
+**Tech**
+
+Django • PostgreSQL
+
+**Highlights**
+
+- Real-time Booking
+- Driver Dashboard
+- Secure Authentication
+- Booking Management
+
+</td>
+
+<td>
+
+## 📦 Asset Tracking SaaS
+
+Physical Asset Management
+
+**Tech**
+
+Django • PostgreSQL • Celery • Redis
+
+**Highlights**
+
+- QR Asset Tracking
+- Maintenance Logs
+- User Management
+- Reporting Dashboard
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# GitHub Statistics
+
 <p align="center">
-  <img src="images/image.png" alt="Amal's GitHub Banner" width="100%">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmalSKumar0&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <a href="https://www.amalskumar.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/AmalSKumar0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/amal-fsd" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:amalskumardev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalSKumar0&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalSKumar0&theme=tokyonight"/>
+
 </p>
 
-<br>
+---
 
-<h2 align="center">About Me</h2>
+# GitHub Trophies
 
 <p align="center">
-  <img src="images/1c8fb882aa6b4e7e769ab0402890b421.jpg" width="120px" style="border-radius: 50%; margin-bottom: 10px;" alt="Pixel cat and moon illustration">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AmalSKumar0&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
 </p>
 
+---
+
+# Contribution Graph
+
 <p align="center">
-  <b>I am a Full Stack Developer with strong backend expertise in Python, Django, PHP, and Laravel, experienced in building scalable web apps.</b><br>
-  My expertise lies in designing and deploying robust REST APIs, secure authentication systems, and database-driven solutions.<br>
-  I have developed production-ready projects including a digital art marketplace, a taxi booking platform, and e-commerce applications.<br>
-  I bring hands-on experience in AWS deployment, PostgreSQL, MySQL, Redis, Celery, Git, and Linux environments.<br>
-  Currently, I am also developing a physical asset tracking SaaS and an IoT monitoring architecture.<br>
-  In my free time, I mentor peers in DSA and customize my Arch Linux desktop,<br>
-  or prepare for my next competitive chess match.<br>
-  Let's build something great!<br>
-  
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmalSKumar0&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
-<br><br>
+---
 
-<h2 align="center"> Technologies & Tools</h2>
+# GitHub Metrics
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <br />
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <br />
-  <!-- Dev Tools & Infrastructure -->
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Celery-000000?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmalSKumar0&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmalSKumar0&theme=tokyonight"/>
+
 </p>
 
-<br><br>
+---
 
-<h2 align="center">📈 GitHub Statistics</h2>
+# What I Like Building
+
+- Backend Systems
+- REST APIs
+- Authentication Systems
+- SaaS Applications
+- Developer Tools
+- Linux Utilities
+- CLI Applications
+- Cloud Deployments
+
+---
+
+# Development Philosophy
+
+> **Write simple code.**
+>
+> **Build scalable systems.**
+>
+> **Automate repetitive work.**
+>
+> **Keep learning.**
+>
+> **Ship real products.**
+
+---
+
+# Connect With Me
 
 <p align="center">
-  <a href="https://github.com/AmalSKumar0">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="Amal's GitHub Stats" />
-  </a>
-  <a href="https://github.com/AmalSKumar0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmalSKumar0&hide_border=true&theme=tokyonight" width="48%" alt="Amal's GitHub Streak" />
-  </a>
+
+<a href="https://www.amalskumar.dev">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/amal-fsd">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:amalskumardev@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
+---
+
+<div align="center">
+
+## Thanks for visiting!
+
+*"Code. Learn. Build. Repeat."*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+<!-- Snake Contribution Animation -->
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalSKumar0&theme=tokyonight" width="98%" alt="Profile Details" />
+
+<img src="https://raw.githubusercontent.com/AmalSKumar0/AmalSKumar0/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
