@@ -26,14 +26,15 @@
 </p>
 
 <p align="center">
-  <b>I am a Full Stack Developer with strong backend expertise in Python, Django, PHP, and Laravel, experienced in building scalable web apps.</b><br>
-  My expertise lies in designing and deploying robust REST APIs, secure authentication systems, and database-driven solutions.<br>
-  I have developed production-ready projects including a digital art marketplace, a taxi booking platform, and e-commerce applications.<br>
-  I bring hands-on experience in AWS deployment, PostgreSQL, MySQL, Redis, Celery, Git, and Linux environments.<br>
-  Currently, I am also developing a physical asset tracking SaaS and an IoT monitoring architecture.<br>
-  In my free time, I mentor peers in DSA and customize my Arch Linux desktop,<br>
-  or prepare for my next competitive chess match.<br>
-  Let's build something great!<br>
+ <b>I am a Backend-Focused Full Stack Developer specializing in Python, Django, PHP, and Laravel, with experience building scalable and secure web applications.</b><br>
+My primary focus is designing REST APIs, authentication systems, and database-driven backend services that are reliable and maintainable.<br>
+I have built projects including a digital art marketplace, a taxi booking platform, e-commerce applications, and developer-focused tools.<br>
+I work with PostgreSQL, MySQL, SQLite, Redis, Celery, Git, AWS, and Linux to develop and deploy modern applications.<br>
+Currently, I am building <b>Noir CLI</b>, an AI-powered reliability engineering tool, alongside a physical asset tracking SaaS platform.<br>
+I enjoy solving data structures and algorithms problems, exploring system design, and continuously improving my backend engineering skills.<br>
+Outside development, I customize my Arch Linux environment and enjoy playing competitive chess.<br>
+I am always eager to learn new technologies, contribute to meaningful projects, and build software that solves real-world problems.<br>
+
   
 </p>
 
@@ -71,19 +72,3 @@
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-<br><br>
-
-<h2 align="center">📈 GitHub Statistics</h2>
-
-<p align="center">
-  <a href="https://github.com/AmalSKumar0">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="Amal's GitHub Stats" />
-  </a>
-  <a href="https://github.com/AmalSKumar0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmalSKumar0&hide_border=true&theme=tokyonight" width="48%" alt="Amal's GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalSKumar0&theme=tokyonight" width="98%" alt="Profile Details" />
-</p>
