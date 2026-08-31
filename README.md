@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Header chess white.jpg" alt="Amal's GitHub Banner" width="100%">
+  <img src="images/Header chess white.jpg" alt="Amal's GitHub Banner" width="100%">
 </p>
 
 <p align="center">
