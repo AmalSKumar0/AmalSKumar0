@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/jpg(22).jpg" alt="Amal's GitHub Banner" width="100%">
+  <img src="images/white cat.jpg" alt="Amal's GitHub Banner" width="100%">
 </p>
 <h1 align="center">Amal S Kumar</h1>
 <p align="center">
