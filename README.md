@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="images/Header chess white.jpg" alt="Amal's GitHub Banner" width="100%">
+  <img src="images/jpg(22).jpg" alt="Amal's GitHub Banner" width="100%">
 </p>
-
+<h1 align="center">Amal S Kumar</h1>
 <p align="center">
   <a href="https://www.amalskumar.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
