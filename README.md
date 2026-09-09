@@ -107,90 +107,136 @@
 
   <img src="https://img.shields.io/badge/Python-355E3B?style=flat-square&logo=python&logoColor=F5F1DC" />
   <img src="https://img.shields.io/badge/Django-355E3B?style=flat-square&logo=django&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/PHP-355E3B?style=flat-square&logo=php&logoColor=F5F1DC" />
   <img src="https://img.shields.io/badge/Laravel-355E3B?style=flat-square&logo=laravel&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/JavaScript-355E3B?style=flat-square&logo=javascript&logoColor=F5F1DC" />
   <img src="https://img.shields.io/badge/React-355E3B?style=flat-square&logo=react&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/JavaScript-355E3B?style=flat-square&logo=javascript&logoColor=F5F1DC" />
 
   <br />
 
   <img src="https://img.shields.io/badge/PostgreSQL-355E3B?style=flat-square&logo=postgresql&logoColor=F5F1DC" />
   <img src="https://img.shields.io/badge/MySQL-355E3B?style=flat-square&logo=mysql&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/MongoDB-355E3B?style=flat-square&logo=mongodb&logoColor=F5F1DC" />
   <img src="https://img.shields.io/badge/Redis-355E3B?style=flat-square&logo=redis&logoColor=F5F1DC" />
   <img src="https://img.shields.io/badge/Celery-355E3B?style=flat-square&logo=celery&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/Docker-355E3B?style=flat-square&logo=docker&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/AWS-355E3B?style=flat-square&logo=amazon-aws&logoColor=F5F1DC" />
 
   <br />
 
-  <img src="https://img.shields.io/badge/C%2B%2B-355E3B?style=flat-square&logo=cplusplus&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/Java-355E3B?style=flat-square&logo=openjdk&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/Linux-355E3B?style=flat-square&logo=linux&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/Arch_Linux-355E3B?style=flat-square&logo=archlinux&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Docker-355E3B?style=flat-square&logo=docker&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/AWS-355E3B?style=flat-square&logo=amazonaws&logoColor=F5F1DC" />
   <img src="https://img.shields.io/badge/Git-355E3B?style=flat-square&logo=git&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Linux-355E3B?style=flat-square&logo=linux&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Go-355E3B?style=flat-square&logo=go&logoColor=F5F1DC" />
 
 </p>
 
 <br />
 
-<!-- ===================== FOCUS ===================== -->
+<!-- ===================== DOING NOW ===================== -->
 
-<h2 align="center">Focus</h2>
+<h2 align="center">Doing Now</h2>
 
 <p align="center">
 
-  Backend Engineering &nbsp;•&nbsp;
-  System Design &nbsp;•&nbsp;
-  Reliability Engineering
+  <b>Learning Go</b> to improve <b>Noir</b> and explore systems programming,
+  concurrency, and high-performance developer tooling.
 
-  <br /><br />
+</p>
 
+<p align="center">
+
+  <code>Noir</code> &nbsp;•&nbsp;
+  Reliability Engineering &nbsp;•&nbsp;
   Developer Tools &nbsp;•&nbsp;
-  Data Structures & Algorithms &nbsp;•&nbsp;
-  AI Systems
+  Go
 
 </p>
 
 <br />
 
-<!-- ===================== STATISTICS ===================== -->
+<!-- ===================== SELECTED WORK ===================== -->
 
-<h2 align="center">Statistics</h2>
+<h2 align="center">Selected Work</h2>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### Noir
+
+AI-powered CLI platform for software reliability engineering.
+
+`Python` `Django` `Typer` `JWT` `Docker`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Velora
+
+Digital art marketplace with payments, disputes, caching, and AWS deployment.
+
+`Django` `Redis` `MySQL` `AWS`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### SwiftRide
+
+Taxi booking platform with OTP verification, dynamic pricing, and trip management.
+
+`Django` `Docker`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Copper
+
+Custom programming language exploring lexical analysis, parsing, and execution.
+
+`C` `Compiler Design`
+
+</td>
+
+</tr>
+</table>
+
+<br />
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
+<h2 align="center">Achievements</h2>
+
+<p align="center">
+
+  <b>220+</b> LeetCode Problems &nbsp;•&nbsp;
+  <b>NASA Space Apps</b> Global Nominee &nbsp;•&nbsp;
+  <b>2nd Place</b> Idea Pitching Competition
+
+</p>
+
+<br />
+
+<!-- ===================== GITHUB ===================== -->
+
+<h2 align="center">GitHub</h2>
 
 <p align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&hide_border=true&bg_color=F5F1DC&title_color=355E3B&text_color=4F6F52&icon_color=355E3B"
+    src="https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&hide_border=true&theme=transparent&title_color=355E3B&text_color=4F6F52&icon_color=355E3B"
     alt="GitHub Statistics"
   />
 
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AmalSKumar0&hide_border=true&background=F5F1DC&stroke=355E3B&ring=355E3B&fire=789262&currStreakLabel=355E3B&sideLabels=4F6F52&dates=789262"
-    alt="GitHub Streak"
-  />
-
-</p>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalSKumar0&layout=compact&hide_border=true&bg_color=F5F1DC&title_color=355E3B&text_color=4F6F52"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalSKumar0&layout=compact&hide_border=true&theme=transparent&title_color=355E3B&text_color=4F6F52"
     alt="Top Languages"
-  />
-
-</p>
-
-<br />
-
-<!-- ===================== CONTRIBUTIONS ===================== -->
-
-<h2 align="center">Contributions</h2>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AmalSKumar0&bg_color=F5F1DC&color=355E3B&line=4F6F52&point=355E3B&area=true&hide_border=true"
-    alt="Contribution Graph"
   />
 
 </p>
@@ -200,10 +246,7 @@
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <i>
-    Building backend systems, developer tools, and software
-    that solves real problems.
-  </i>
+  <i>Building backend systems, developer tools, and software that solves real problems.</i>
 </p>
 
 <p align="center">
