@@ -90,6 +90,7 @@
   ],
 
   "currently_building": "Noir CLI",
+  "currently_learning": "GO Lang",
   "focus": "AI-powered Reliability Engineering"
 }
 ```
@@ -126,98 +127,6 @@
   <img src="https://img.shields.io/badge/Git-355E3B?style=flat-square&logo=git&logoColor=F5F1DC" />
   <img src="https://img.shields.io/badge/Linux-355E3B?style=flat-square&logo=linux&logoColor=F5F1DC" />
   <img src="https://img.shields.io/badge/Go-355E3B?style=flat-square&logo=go&logoColor=F5F1DC" />
-
-</p>
-
-<br />
-
-<!-- ===================== DOING NOW ===================== -->
-
-<h2 align="center">Doing Now</h2>
-
-<p align="center">
-
-  <b>Learning Go</b> to improve <b>Noir</b> and explore systems programming,
-  concurrency, and high-performance developer tooling.
-
-</p>
-
-<p align="center">
-
-  <code>Noir</code> &nbsp;•&nbsp;
-  Reliability Engineering &nbsp;•&nbsp;
-  Developer Tools &nbsp;•&nbsp;
-  Go
-
-</p>
-
-<br />
-
-<!-- ===================== SELECTED WORK ===================== -->
-
-<h2 align="center">Selected Work</h2>
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### Noir
-
-AI-powered CLI platform for software reliability engineering.
-
-`Python` `Django` `Typer` `JWT` `Docker`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Velora
-
-Digital art marketplace with payments, disputes, caching, and AWS deployment.
-
-`Django` `Redis` `MySQL` `AWS`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### SwiftRide
-
-Taxi booking platform with OTP verification, dynamic pricing, and trip management.
-
-`Django` `Docker`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Copper
-
-Custom programming language exploring lexical analysis, parsing, and execution.
-
-`C` `Compiler Design`
-
-</td>
-
-</tr>
-</table>
-
-<br />
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
-
-<h2 align="center">Achievements</h2>
-
-<p align="center">
-
-  <b>220+</b> LeetCode Problems &nbsp;•&nbsp;
-  <b>NASA Space Apps</b> Global Nominee &nbsp;•&nbsp;
-  <b>2nd Place</b> Idea Pitching Competition
 
 </p>
 
