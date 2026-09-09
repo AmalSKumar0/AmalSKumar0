@@ -131,7 +131,7 @@
 </p>
 
 <br />
-<h2 align="center">GitHub</h2>
+<h2 align="center">Activity</h2>
 
 <p align="center">
   <img
@@ -155,7 +155,7 @@
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <i>Building backend systems, developer tools, and software that solves real problems.</i>
+  <i>Loves coding.</i>
 </p>
 
 <p align="center">
