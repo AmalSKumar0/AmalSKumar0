@@ -57,7 +57,7 @@
 <table width="100%">
 <tr>
 
-<td width="50%" valign="middle">
+<td width="60%" valign="middle">
 
 ```json
 {
@@ -95,7 +95,7 @@
 }
 ```
 
-</td> <td width="50%" align="center" valign="middle">
+</td> <td width="40%" align="center" valign="middle">
 
 <img src="images/about.jpg" alt="About Amal S Kumar" width="100%" />
 
