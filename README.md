@@ -2,20 +2,13 @@
 
 <p align="center">
   <img
-    src="images/white cat.jpg"
+    src="images/banner.png"
     alt="Amal S Kumar Banner"
     width="100%"
   />
 </p>
 
 <br />
-
-<h1 align="center">Amal S Kumar</h1>
-
-<p align="center">
-  Backend-Focused Full Stack Developer
-</p>
-
 <p align="center">
   <i>Build. Break. Understand. Improve.</i>
 </p>
@@ -100,7 +93,7 @@ engineering tool.
 <td width="35%" align="center">
 
 <img
-  src="images/1c8fb882aa6b4e7e769ab0402890b421.jpg"
+  src="images/about.jpg"
   width="180"
   alt="Profile illustration"
 />
