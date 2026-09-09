@@ -8,61 +8,6 @@
   />
 </p>
 
-<br />
-<p align="center">
-  <i>Build. Break. Understand. Improve.</i>
-</p>
-
-<br />
-
-<!-- ===================== SOCIAL LINKS ===================== -->
-
-<p align="center">
-
-  <a href="https://www.amalskumar.dev">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
-
-  <a href="https://github.com/AmalSKumar0">
-    <img
-      src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://linkedin.com/in/amal-fsd">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:amalskumardev@gmail.com">
-    <img
-      src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-
-</p>
-
-<br />
-
-<hr />
-
-<!-- ===================== HERO ===================== -->
-
-<p align="center">
-  <img
-    src="images/banner.png"
-    alt="Amal S Kumar Banner"
-    width="100%"
-  />
-</p>
-
 <p align="center">
   <i>Build. Break. Understand. Improve.</i>
 </p>
