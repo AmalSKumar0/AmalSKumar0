@@ -131,26 +131,26 @@
 </p>
 
 <br />
-
-<!-- ===================== GITHUB ===================== -->
-
 <h2 align="center">GitHub</h2>
 
 <p align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AmalSKumar0&show_icons=true&hide_border=true&theme=transparent&title_color=355E3B&text_color=4F6F52&icon_color=355E3B"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmalSKumar0&theme=github_dark"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmalSKumar0&theme=github_dark"
     alt="GitHub Statistics"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalSKumar0&layout=compact&hide_border=true&theme=transparent&title_color=355E3B&text_color=4F6F52"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmalSKumar0&theme=github_dark"
+    alt="Repositories by Language"
   />
-
 </p>
-
-<br />
 
 <!-- ===================== FOOTER ===================== -->
 
