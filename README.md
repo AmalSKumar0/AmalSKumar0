@@ -53,61 +53,101 @@
 
 <hr />
 
+<!-- ===================== HERO ===================== -->
+
+<p align="center">
+  <img
+    src="images/banner.png"
+    alt="Amal S Kumar Banner"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>Build. Break. Understand. Improve.</i>
+</p>
+
+<br />
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+
+<p align="center">
+
+  <a href="https://www.amalskumar.dev">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://github.com/AmalSKumar0">
+    <img
+      src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://linkedin.com/in/amal-fsd">
+    <img
+      src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:amalskumardev@gmail.com">
+    <img
+      src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+</p>
+
+<br />
+
 <!-- ===================== ABOUT ===================== -->
 
 <h2 align="center">👤 About Me</h2>
 
-<table align="center">
-
+<table width="100%">
 <tr>
 
-<td width="65%">
+<td width="60%" valign="middle">
 
-<p>
+```json
+{
+  "name": "Amal S Kumar",
+  "role": "Backend-Focused Full Stack Developer",
 
-I am a <b>Backend-Focused Full Stack Developer</b> interested in
-backend engineering, software architecture, system design, and
-developer tools.
+  "interests": [
+    "Backend Engineering",
+    "Software Architecture",
+    "System Design",
+    "Developer Tools",
+    "AI Systems"
+  ],
 
-<br /><br />
+  "primary_stack": {
+    "language": "Python",
+    "framework": "Django",
+    "databases": [
+      "PostgreSQL",
+      "MySQL"
+    ]
+  },
 
-I primarily work with <b>Python and Django</b> and build:
+  "builds": [
+    "REST APIs",
+    "Authentication Systems",
+    "Database-Driven Applications",
+    "Asynchronous Workflows",
+    "Backend Services"
+  ],
 
-<br />
-
-• REST APIs  
-• Authentication systems  
-• Database-driven applications  
-• Asynchronous workflows  
-• Backend services  
-
-<br />
-
-Currently building <b>Noir CLI</b>, an AI-powered reliability
-engineering tool.
-
-</p>
-
-</td>
-
-<td width="35%" align="center">
-
-<img
-  src="images/about.jpg"
-  width="180"
-  alt="Profile illustration"
-/>
-
-</td>
-
-</tr>
-
-</table>
-
-<br />
-
-<hr />
-
+  "currently_building": "Noir CLI",
+  "focus": "AI-powered Reliability Engineering"
+}
+```
 <!-- ===================== TECHNOLOGIES ===================== -->
 
 <h2 align="center">⚙️ Technologies</h2>
