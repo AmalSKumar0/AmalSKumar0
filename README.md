@@ -102,31 +102,31 @@
 </td> </tr> </table> <br /> 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-<h2 align="center">Technologies</h2>
+<<h2 align="center">Technologies</h2>
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/Python-355E3B?style=flat-square&logo=python&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/Django-355E3B?style=flat-square&logo=django&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/Laravel-355E3B?style=flat-square&logo=laravel&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/React-355E3B?style=flat-square&logo=react&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/JavaScript-355E3B?style=flat-square&logo=javascript&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Python-355E3B?style=for-the-badge&logo=python&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Django-355E3B?style=for-the-badge&logo=django&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Laravel-355E3B?style=for-the-badge&logo=laravel&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/React-355E3B?style=for-the-badge&logo=react&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/JavaScript-355E3B?style=for-the-badge&logo=javascript&logoColor=F5F1DC" />
 
   <br />
 
-  <img src="https://img.shields.io/badge/PostgreSQL-355E3B?style=flat-square&logo=postgresql&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/MySQL-355E3B?style=flat-square&logo=mysql&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/MongoDB-355E3B?style=flat-square&logo=mongodb&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/Redis-355E3B?style=flat-square&logo=redis&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/Celery-355E3B?style=flat-square&logo=celery&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/PostgreSQL-355E3B?style=for-the-badge&logo=postgresql&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/MySQL-355E3B?style=for-the-badge&logo=mysql&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/MongoDB-355E3B?style=for-the-badge&logo=mongodb&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Redis-355E3B?style=for-the-badge&logo=redis&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Celery-355E3B?style=for-the-badge&logo=celery&logoColor=F5F1DC" />
 
   <br />
 
-  <img src="https://img.shields.io/badge/Docker-355E3B?style=flat-square&logo=docker&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/AWS-355E3B?style=flat-square&logo=amazonaws&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/Git-355E3B?style=flat-square&logo=git&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/Linux-355E3B?style=flat-square&logo=linux&logoColor=F5F1DC" />
-  <img src="https://img.shields.io/badge/Go-355E3B?style=flat-square&logo=go&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Docker-355E3B?style=for-the-badge&logo=docker&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/AWS-355E3B?style=for-the-badge&logo=amazonaws&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Git-355E3B?style=for-the-badge&logo=git&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Linux-355E3B?style=for-the-badge&logo=linux&logoColor=F5F1DC" />
+  <img src="https://img.shields.io/badge/Go-355E3B?style=for-the-badge&logo=go&logoColor=F5F1DC" />
 
 </p>
 
