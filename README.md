@@ -20,28 +20,28 @@
 
   <a href="https://www.amalskumar.dev">
     <img
-      src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/Portfolio-4F6F52?style=for-the-badge&logo=googlechrome&logoColor=F5F1DC"
       alt="Portfolio"
     />
   </a>
 
   <a href="https://github.com/AmalSKumar0">
     <img
-      src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-4F6F52?style=for-the-badge&logo=github&logoColor=F5F1DC"
       alt="GitHub"
     />
   </a>
 
   <a href="https://linkedin.com/in/amal-fsd">
     <img
-      src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-4F6F52?style=for-the-badge&logo=linkedin&logoColor=F5F1DC"
       alt="LinkedIn"
     />
   </a>
 
   <a href="mailto:amalskumardev@gmail.com">
     <img
-      src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Email-4F6F52?style=for-the-badge&logo=gmail&logoColor=F5F1DC"
       alt="Email"
     />
   </a>
