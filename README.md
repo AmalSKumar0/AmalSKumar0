@@ -102,7 +102,7 @@
 </td> </tr> </table> <br /> 
 <!-- ===================== TECHNOLOGIES ===================== -->
 
-<<h2 align="center">Technologies</h2>
+<h2 align="center">Technologies</h2>
 
 <p align="center">
 
@@ -155,9 +155,6 @@
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <i>Loves coding.</i>
+  <i>I Love coding.</i>
 </p>
 
-<p align="center">
-  <b>— Amal S Kumar</b>
-</p>
