@@ -158,3 +158,11 @@
   <i>I Love coding.</i>
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/amalskumar">
+    <img
+      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F5F1DC?style=flat-square&logo=buymeacoffee&logoColor=355E3B"
+      alt="Buy Me a Coffee"
+    />
+  </a>
+</p>
