@@ -145,7 +145,7 @@
   />
 
   <!-- <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmalSKumar0&theme=github_dark"
+    src="https://leetcode-badge-showcase.vercel.app/api?username=Amalsenpai&theme=light&border=border&animated=true"
     alt="Repositories by Language"
   /> -->
 </p>
