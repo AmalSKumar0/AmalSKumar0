@@ -139,15 +139,16 @@
 </p>
 
 <p align="center">
+<img
+    src="https://leetcode-badge-showcase.vercel.app/api?username=Amalsenpai&theme=dark&border=border&animated=true"
+    alt="Repositories by Language"
+  />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmalSKumar0&theme=github_dark"
     alt="GitHub Statistics"
   />
 
-  <img
-    src="https://leetcode-badge-showcase.vercel.app/api?username=Amalsenpai&theme=light&border=border&animated=true"
-    alt="Repositories by Language"
-  />
+  
 </p>
 
 <!-- ===================== FOOTER ===================== -->
