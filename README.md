@@ -139,10 +139,10 @@
 </p>
 
 <p align="center">
-<img
+<!-- <img
     src="https://leetcode-badge-showcase.vercel.app/api?username=Amalsenpai&theme=transparent&border=no-border&animated=false&anon=true"
     alt="Repositories by Language"
-  />
+  /> -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmalSKumar0&theme=github_dark"
     alt="GitHub Statistics"
