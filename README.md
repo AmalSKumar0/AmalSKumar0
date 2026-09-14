@@ -144,10 +144,10 @@
     alt="GitHub Statistics"
   />
 
-  <!-- <img
+  <img
     src="https://leetcode-badge-showcase.vercel.app/api?username=Amalsenpai&theme=light&border=border&animated=true"
     alt="Repositories by Language"
-  /> -->
+  />
 </p>
 
 <!-- ===================== FOOTER ===================== -->
