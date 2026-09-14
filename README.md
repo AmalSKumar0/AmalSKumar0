@@ -140,7 +140,7 @@
 
 <p align="center">
 <img
-    src="https://leetcode-badge-showcase.vercel.app/api?username=Amalsenpai&theme=dark&border=border&animated=true"
+    src="https://leetcode-badge-showcase.vercel.app/api?username=Amalsenpai&theme=transparent&border=no-border&animated=false&anon=true"
     alt="Repositories by Language"
   />
   <img
