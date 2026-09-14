@@ -24,11 +24,10 @@
       alt="Portfolio"
     />
   </a>
-
-  <a href="https://github.com/AmalSKumar0">
+  <a href="https://leetcode.com/u/DpU4R0OD92/">
     <img
       src="https://img.shields.io/badge/GitHub-4F6F52?style=for-the-badge&logo=github&logoColor=F5F1DC"
-      alt="GitHub"
+      alt="Leetcode"
     />
   </a>
 
@@ -49,7 +48,7 @@
 </p>
 
 <br />
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={amalsenpai}&limit=10" alt="LeetCode Badges" />
 <!-- ===================== ABOUT ===================== -->
 
 <h2 align="center"> About Me</h2>
